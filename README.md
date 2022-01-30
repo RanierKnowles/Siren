@@ -6,17 +6,7 @@ The schematic for the design can be found on this page.
 
 Required components:
 
-74HC14 Schmitt trigger IC
-2 x 1u capacitor,
-2 x 10n capacitor,
-1 x 330k resistor,
-1 x 47k resistor,
-1 x 27k resistor,
-2 x 1N4148 diode,
-1 x buzzer,
-1 x switch,
-
-![ScreenShot](https://github.com/RanierKnowles/Siren/blob/master/buzz.JPG?raw=true)
+![ScreenShot](https://github.com/RanierKnowles/Siren/blob/master/billbuzz.JPG?raw=true)
 
 Hope this helps, best of luck annoying your neighbors.
 Cheers,
