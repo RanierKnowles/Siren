@@ -16,7 +16,7 @@ Required components:
 1 x buzzer,
 1 x switch,
 
-![alt text](https://github.com/RanierKnowles/Siren/blob/master/buzz.JPG?raw=true)
+![alt text](https://github.com/RanierKnowles/Siren/blob/master/buzz.JPG ?raw=true)
 
 Hope this helps, best of luck annoying your neighbors.
 Cheers,
